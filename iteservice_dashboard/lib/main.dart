@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Marketing Proo Dashboard",
+      title: "IT eService Dashboard",
       initialBinding: InitialBinding(),
       theme: ThemeData(
         primaryColor: Pallete.primaryCol,

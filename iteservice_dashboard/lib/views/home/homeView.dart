@@ -11,7 +11,7 @@ class HomeView extends StatelessWidget {
     return GetX<NavController>(builder: (controller) {
       return Scaffold(
         appBar: AppBar(
-            title: Text("Marketing Proo Dashboard"),
+            title: Text("IT eService Dashboard"),
             centerTitle: true,
             actions: [
               IconButton(
